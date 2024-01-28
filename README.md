@@ -1,5 +1,24 @@
 ## reactPoke_App
 
+## home page
+✅reactPokemon_App
+
+🪄This project is a simple Pokemon card game made with React. 
+
+👾The main component that forms the heart of the game is Pokegame. It provides a challenge experience between randomly selected Pokemon cards in the project. 
+
+🤖At the start of each game, the Pokemon cards in each player's hand are randomly selected, making each game unique and unpredictable. 
+
+🦄Players compete against each other using the experience points of their Pokemon cards.
+
+🃏Winners and losers are determined by the total experience points between the cards. 
+
+## 🛠technologies used:
+📌HTML
+📌CSS
+📌JavaScript
+📌React
+📌API (API used to pull Pokemon information)
 
 
 <img src="./public/reactPoke_App.gif"/>
