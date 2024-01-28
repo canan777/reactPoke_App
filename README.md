@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+## reactPoke_App
+
+
+
+<img src="./public/reactPoke_App.gif"/>
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
